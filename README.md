@@ -8,7 +8,7 @@ Project for lighting up a scale model (Italeri Lancia Stratos) with an ESP8266 (
 
 # Wiring
 
-**Schema**
+![alt text](https://github.com/Zico56/esp01-stratos/blob/main/wiring/schematic-esp01-stratos.png?raw=true)
 
 
 # Lights feature and shift register '74HC595' mapping
