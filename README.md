@@ -16,9 +16,9 @@ Project for lighting up a scale model (Italeri Lancia Stratos) with an ESP8266 (
 | -------- | --------- | ------- |
 | 00 | Front position light | (x2) |
 | 01 | Head lights | (x2) |
-| 02 | Long range lights | (x4) |
-| 03 | Right turn indicator | (x2) |
-| 04 | Left turn indicator | (x2) |
-| 05 | Tail lights | (x2) |
+| 02 | Tail lights | (x2) |
+| 03 | Long range lights | (x4) |
+| 04 | Blinking lights | (x4) |
+| 05 | 
 | 06 | 
-| 07 | Reverse lights (?) | (x2) |
+| 07 | 
